@@ -1,4 +1,5 @@
-ÔÚÏß½âÎöÔ¤ÀÀ£º
+åœ¨çº¿è§£æé¢„è§ˆï¼š
 https://api.77sec.cn/douyin/
-¶¶ÒôAPI½Ó¿Ú´î½¨£º
+
+æŠ–éŸ³APIæ¥å£æ­å»ºï¼š
 https://github.com/zbfzn/douyin-clear-php
