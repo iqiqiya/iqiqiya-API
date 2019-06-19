@@ -15,6 +15,8 @@ API接口不断增加中...
 > 6.[快递查询-支持国内百家快递](https://api.77sec.cn/kuaidi)
 >
 > 7.[flv视频在线解析](http://player.77sec.cn/flv)
+>
+> 8.[抖音无水印解析](https://api.77sec.cn/douyin)
 
 有的是搜集的有的是自写的（有注明哦）
 
