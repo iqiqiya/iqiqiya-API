@@ -17,7 +17,9 @@ API接口不断增加中...
 > 7.[flv视频在线解析](http://player.77sec.cn/flv)
 >
 > 8.[抖音无水印解析](https://api.77sec.cn/douyin)
-
+>
+> 9.[一句话随机图片](https://github.com/iqiqiya/iqiqiya-API/tree/master/RandPic)
+>
 有的是搜集的有的是自写的（有注明哦）
 
 如果对你有帮助，给个star呗，谢啦
