@@ -1,4 +1,5 @@
 转载自:http://www.kcblog.top/2.html
+
 简单制作一个刷新一次变一次的图片随机显示图片PHP代码
 
 服务器需要支持PHP
@@ -35,4 +36,4 @@ header("location:$image[$id]");
 
 你也可以加上后缀对付论坛的格式过滤.
 
-例如: <img src="http://你的网址/call.php?.jpg">
+例如: http://你的网址/call.php?.jpg
