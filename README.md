@@ -22,6 +22,8 @@ API接口不断增加中...
 >
 > 10.[qq用户信息获取](https://github.com/iqiqiya/iqiqiya-API/tree/master/QQ)
 >
+> 11.[bilibili封面图获取](https://github.com/iqiqiya/iqiqiya-API/tree/master/bilibili)
+>
 > 有的是搜集的有的是自写的（有注明哦）
 
 如果对你有帮助，给个star呗，谢啦
