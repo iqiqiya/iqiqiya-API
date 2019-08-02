@@ -26,6 +26,8 @@ API接口不断增加中...
 > 
 > 12.[千图网(58pic)无水印解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/58pic)
 >
+> 13.[喜马拉雅FM主播信息采集](https://github.com/iqiqiya/iqiqiya-API/tree/master/ximalaya)
+>
 > 有的是搜集的有的是自写的（有注明哦）
 
 如果对你有帮助，给个star呗，谢啦
