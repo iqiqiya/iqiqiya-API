@@ -31,3 +31,6 @@ API接口不断增加中...
 > 有的是搜集的有的是自写的（有注明哦）
 
 如果对你有帮助，给个star呗，谢啦
+
+窝很饿，请求捐助
+![Image text](https://api.77sec.cn/Donate.png)
