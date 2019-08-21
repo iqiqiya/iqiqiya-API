@@ -32,6 +32,8 @@ API接口不断增加中...
 >
 > 15.[CCTV(央视网)视频解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/cctv)
 >
+> 16.[微信运动步数修改](https://github.com/iqiqiya/iqiqiya-API/tree/master/WeChat)
+>
 > 有的是搜集的有的是自写的（有注明哦）
 >
 > 如果对你有帮助，给个star呗，谢啦
