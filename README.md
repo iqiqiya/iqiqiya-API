@@ -36,7 +36,6 @@ API接口不断增加中...
 >
 > 如果对你有帮助，给个star呗，谢啦
 >
-> [窝很饿，请我吃辣条]
-(https://api.77sec.cn/Donate.png)
-![Image text](./Donate.png)
+> [窝很饿，请我吃辣条](https://api.77sec.cn/Donate.png)
 
+![Image text](./Donate.png)
