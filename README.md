@@ -1,6 +1,13 @@
 本项目旨在和大家一起交流学习如何使用php来搭建属于自己得API接口，任何问题请issues哦~
 
+衍生项目：LanParse(蓝胖子)
+
+一个Andorid应用，操作更加便捷~
+
+更多请看：https://github.com/iqiqiya/LanParse
+
 最近更新在2018/9/2日，新增皮皮虾短视频去水印api
+
 (注：皮皮搞笑与皮皮虾是两个不同的APP)
 
 ### 预览地址：https://api.77sec.cn/
