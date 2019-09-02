@@ -1,16 +1,19 @@
+### 衍生项目：[LanParse(蓝胖子)](https://github.com/iqiqiya/LanParse)
+
+它是一个Andorid应用，只为让操作更加便捷~
+
+---
+
+### 为什么要有这个项目
 本项目旨在和大家一起交流学习如何使用php来搭建属于自己的API接口，任何问题请issues哦~
 
 最近更新在2018/9/2日，新增皮皮虾短视频去水印api
 
 (注：皮皮搞笑与皮皮虾是两个不同的APP)
 
-### 预览地址：https://api.77sec.cn/
-
-### 衍生项目：[LanParse(蓝胖子)](https://github.com/iqiqiya/LanParse)
-
-它是一个Andorid应用，只为让操作更加便捷~
-
 ### API接口不断增加中...
+
+### 预览地址：https://api.77sec.cn/
 
 > 1.[一言(古诗句版)](https://github.com/iqiqiya/iqiqiya-API/tree/master/yiyan)
 >
