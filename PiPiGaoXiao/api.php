@@ -2,7 +2,7 @@
 /**
  * 皮皮搞笑APP短视频无水印解析
  * 作者：iqiqiya (77sec.cn)
- * 日期：2018/8/28
+ * 日期：2019/8/28
  */
 error_reporting(0);
 function curl_pipigaoxiao($id)
@@ -26,7 +26,7 @@ function curl_pipigaoxiao($id)
     $video_id = $id;
     //设置post数据
     $post_data = "{\"pid\":".$video_id.",\"type\":\"post\",\"mid\":null}";
-    var_dump($post_data);
+    //var_dump($post_data);
     //$data = http_build_query($post_data);
     curl_setopt($cl, CURLOPT_POSTFIELDS, $post_data);
     //执行命令

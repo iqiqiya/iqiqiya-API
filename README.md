@@ -1,6 +1,7 @@
 本项目旨在和大家一起交流学习如何使用php来搭建属于自己得API接口，任何问题请issues哦~
 
-最近更新在2018/8/28日，新增皮皮视频APP短视频去水印api
+最近更新在2018/9/2日，新增皮皮虾短视频去水印api
+(注：皮皮搞笑与皮皮虾是两个不同的APP)
 
 ### 预览地址：https://api.77sec.cn/
 
@@ -39,6 +40,8 @@ API接口不断增加中...
 > 16.[微信运动步数修改](https://github.com/iqiqiya/iqiqiya-API/tree/master/WeChat)
 >
 > 17.[皮皮搞笑APP无水印视频解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/PiPiGaoXiao)
+> 
+> 18.[皮皮虾短视频无水印解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/PiPiXia)
 >
 > 有的是搜集的有的是自写的（有注明哦）
 >
