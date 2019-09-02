@@ -6,11 +6,9 @@
 
 ### 预览地址：https://api.77sec.cn/
 
-### 衍生项目：LanParse(蓝胖子)
+### 衍生项目：[LanParse(蓝胖子)](https://github.com/iqiqiya/LanParse)
 
-它是一个Andorid应用，操作更加便捷~
-
-更多请看：https://github.com/iqiqiya/LanParse
+它是一个Andorid应用，只为让操作更加便捷~
 
 ### API接口不断增加中...
 
