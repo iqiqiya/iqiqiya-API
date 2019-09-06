@@ -1,18 +1,19 @@
-本项目旨在和大家一起交流学习如何使用php来搭建属于自己得API接口，任何问题请issues哦~
+### 衍生项目：[LanParse(蓝胖子)](https://github.com/iqiqiya/LanParse)
 
-衍生项目：LanParse(蓝胖子)
+它是一个Andorid应用，只为让操作更加便捷~
 
-一个Andorid应用，操作更加便捷~
+---
 
-更多请看：https://github.com/iqiqiya/LanParse
+### 为什么要有这个项目
+本项目旨在和大家一起交流学习如何使用php来搭建属于自己的API接口，任何问题请issues哦~
 
 最近更新在2018/9/6日，新增蓝奏云直链解析api
 
 (注：皮皮搞笑与皮皮虾是两个不同的APP)
 
-### 预览地址：https://api.77sec.cn/
+### API接口不断增加中...
 
-API接口不断增加中...
+### 预览地址：https://api.77sec.cn/
 
 > 1.[一言(古诗句版)](https://github.com/iqiqiya/iqiqiya-API/tree/master/yiyan)
 >
