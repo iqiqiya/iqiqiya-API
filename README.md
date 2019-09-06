@@ -50,6 +50,8 @@
 > 17.[皮皮搞笑APP无水印视频解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/PiPiGaoXiao)
 > 
 > 18.[皮皮虾短视频无水印解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/PiPiXia)
+> 
+> 19.[蓝奏云直链解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/lanzou)
 >
 > 有的是搜集的有的是自写的（有注明哦）
 >
