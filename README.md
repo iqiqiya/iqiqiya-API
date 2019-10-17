@@ -53,6 +53,8 @@
 > 
 > 19.[蓝奏云直链解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/lanzou)
 >
+> 20.[千库网无水印解析](http://api.77sec.cn/)
+>
 > 有的是搜集的有的是自写的（有注明哦）
 >
 > 如果对你有帮助，给个star呗，谢啦
