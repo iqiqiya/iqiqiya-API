@@ -55,6 +55,6 @@ function getPiPiId($VideoUrl)
     //http://h5.ippzone.com/pp/post/78266943052
 }
 //$VideoUrl = "http://h5.ippzone.com/pp/post/78266943052";
-$VideoUrl = $_GET['url'];
+$VideoUrl = $_POST['url'];
 getPiPiId($VideoUrl);
 ?>

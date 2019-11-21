@@ -16,8 +16,6 @@ ini_set('user_agent','Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .N
 $company = file_get_contents('http://www.kuaidi100.com/query?type='.$company.'&postid='.$numbe.'&phone=');
 //echo($company);
 
-
-
 $c= json_decode($company); 
 $array = object_array($c);
 //var_dump($array);

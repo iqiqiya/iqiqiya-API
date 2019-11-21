@@ -39,7 +39,7 @@ function getPiPiXiaId($VideoUrl)
     //https://h5.hulushequ.com/item/6562792949205358861
     //https://h5.pipix.com/item/6562792949205358861
 }
-//$VideoUrl = "https://h5.hulushequ.com/item/6562792949205358861";
-$VideoUrl = $_GET['url'];
+$VideoUrl = "https://h5.hulushequ.com/item/6562792949205358861";
+//$VideoUrl = $_GET['url'];
 getPiPiXiaId($VideoUrl);
 ?>

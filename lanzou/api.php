@@ -53,11 +53,11 @@ function getTrueUrl($succ_url){
     ));
 
     curl_setopt($ch, CURLOPT_URL, $succ_url);
-// 不需要页面内容
+    // 不需要页面内容
     curl_setopt($ch, CURLOPT_NOBODY, 1);
-// 不直接输出
+    // 不直接输出
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-// 返回最后的Location
+    // 返回最后的Location
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
     curl_exec($ch);
     $info = curl_getinfo($ch,CURLINFO_EFFECTIVE_URL);
@@ -97,7 +97,6 @@ function getLanZou($pan_url){
     }
     $arg4 = $matches[1];
     $succ_url = "https://vip.d0.baidupan.com/file/".stripslashes($arg4);
-    //echo $succ_url;
     getTrueUrl($succ_url);
 }
 $pan_url = "https://www.lanzous.com/i2xrmcb";
