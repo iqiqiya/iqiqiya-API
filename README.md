@@ -51,6 +51,10 @@
 >
 > 21.[17素材网免VIP解析](http://api.77sec.cn/17sucai)
 >
+> 22.[快手去水印解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/gifshow)
+>
+> 23.[微视去水印解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/weishi)
+>
 > 如果对你有帮助，给个star呗，谢啦
 >
 > [窝很饿，请我吃辣条](https://api.77sec.cn/Donate.png)

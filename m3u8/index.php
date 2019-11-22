@@ -16,7 +16,7 @@
 var dp = new DPlayer({
     element: document.getElementById('player1'),
     video: {
-        url: "<?php echo $_GET['url'];?>"
+        url: "<?php echo $_POST['url'];?>"
     }
 });
 dp.play();
