@@ -28,6 +28,8 @@ API接口不断增加中...
     - [网易云音乐解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/163music)
 
     - [喜马拉雅FM信息采集](https://github.com/iqiqiya/iqiqiya-API/tree/master/ximalaya)
+    
+    - [echo回声无损音乐解析](https://github.com/iqiqiya/iqiqiya-API/tree/master/echo)
 
   - 图片类
 
@@ -74,6 +76,8 @@ API接口不断增加中...
 ## 在线预览
 
 [iqiqiya-API](https://api.77sec.cn/)
+
+[iAkie在线工具箱](https://tools.iakie.com/)
 
 ## 项目说明
 
