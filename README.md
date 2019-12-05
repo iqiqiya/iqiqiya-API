@@ -1,7 +1,7 @@
 ## 更新情况
 API接口不断增加中...
 
-最近更新是在2019/11/27，修复了快递100API接口
+最近更新是在2019/12/5，新增短网址生成
 
 * 娱乐类
 
@@ -62,6 +62,8 @@ API接口不断增加中...
     - [qq用户信息获取](https://github.com/iqiqiya/iqiqiya-API/tree/master/QQ)
 
     - [微信运动步数修改](https://github.com/iqiqiya/iqiqiya-API/tree/master/WeChat)
+    
+    - [短网址生成](https://github.com/iqiqiya/iqiqiya-API/tree/master/Shortlinks)
 
   - 其它类
 
