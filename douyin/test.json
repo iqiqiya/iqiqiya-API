@@ -1,0 +1,170 @@
+{
+  "status_code": 0,
+  "item_list": [
+    {
+      "create_time": 1572838054,
+      "share_info": {
+        "share_weibo_desc": "#在抖音，记录美好生活#上班第一天就被炒鱿鱼了…",
+        "share_desc": "在抖音，记录美好生活",
+        "share_title": "上班第一天就被炒鱿鱼了…"
+      },
+      "video_labels": null,
+      "comment_list": null,
+      "is_live_replay": false,
+      "cha_list": null,
+      "risk_infos": {
+        "content": "",
+        "warn": false,
+        "type": 0
+      },
+      "author_user_id": 2238223396386808,
+      "video": {
+        "play_addr": {
+          "uri": "v0200fc60000bmvpl5jrh3pfhtvqo890",
+          "url_list": [
+            "https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fc60000bmvpl5jrh3pfhtvqo890&ratio=720p&line=0"
+          ]
+        },
+        "height": 1280,
+        "width": 720,
+        "origin_cover": {
+          "uri": "large/tos-cn-p-0015/338ff963d55f427c9047f91b28055116_1572838063",
+          "url_list": [
+            "http://p3-dy-ipv6.byteimg.com/large/tos-cn-p-0015/338ff963d55f427c9047f91b28055116_1572838063.jpeg?from=2563711402_large",
+            "http://p26-dy.byteimg.com/large/tos-cn-p-0015/338ff963d55f427c9047f91b28055116_1572838063.jpeg?from=2563711402_large",
+            "http://p9-dy.byteimg.com/large/tos-cn-p-0015/338ff963d55f427c9047f91b28055116_1572838063.jpeg?from=2563711402_large"
+          ]
+        },
+        "bit_rate": null,
+        "vid": "v0200fc60000bmvpl5jrh3pfhtvqo890",
+        "cover": {
+          "uri": "tos-cn-p-0015/21d939fc1df2494b8f8328035ef85e77_1572838072",
+          "url_list": [
+            "https://p29-dy.byteimg.com/img/tos-cn-p-0015/21d939fc1df2494b8f8328035ef85e77_1572838072~c5_300x400.jpeg?from=2563711402_large",
+            "https://p26-dy.byteimg.com/img/tos-cn-p-0015/21d939fc1df2494b8f8328035ef85e77_1572838072~c5_300x400.jpeg?from=2563711402_large",
+            "https://p3-dy.byteimg.com/img/tos-cn-p-0015/21d939fc1df2494b8f8328035ef85e77_1572838072~c5_300x400.jpeg?from=2563711402_large"
+          ]
+        },
+        "dynamic_cover": {
+          "url_list": [
+            "https://p9-dy.byteimg.com/obj/tos-cn-p-0015/84d6155410e8482fabf43af1b695b22f_1572838073?from=2563711402_large",
+            "https://p26-dy.byteimg.com/obj/tos-cn-p-0015/84d6155410e8482fabf43af1b695b22f_1572838073?from=2563711402_large",
+            "https://p3-dy.byteimg.com/obj/tos-cn-p-0015/84d6155410e8482fabf43af1b695b22f_1572838073?from=2563711402_large"
+          ],
+          "uri": "tos-cn-p-0015/84d6155410e8482fabf43af1b695b22f_1572838073"
+        },
+        "ratio": "540p",
+        "has_watermark": true,
+        "duration": 40573
+      },
+      "text_extra": [],
+      "aweme_type": 4,
+      "promotions": null,
+      "desc": "上班第一天就被炒鱿鱼了…",
+      "image_infos": null,
+      "is_preview": 0,
+      "aweme_id": "6755287973832543492",
+      "statistics": {
+        "aweme_id": "6755287973832543492",
+        "comment_count": 756,
+        "digg_count": 180030
+      },
+      "geofencing": null,
+      "label_top_text": null,
+      "author": {
+        "short_id": "2185742846",
+        "nickname": "苓妹妹吖",
+        "signature": "哥哥在我的关注里😜\n比心：81038742、 91776578\n天上掉下个苓妹妹吖\n粉丝裙：747059508\n商务合作、艺人招募📮：504297582@qq.com",
+        "avatar_thumb": {
+          "uri": "26dbb00048be1c44f5b89",
+          "url_list": [
+            "https://p3-dy-ipv6.byteimg.com/aweme/100x100/26dbb00048be1c44f5b89.jpeg",
+            "https://p29-dy.byteimg.com/aweme/100x100/26dbb00048be1c44f5b89.jpeg",
+            "https://p9-dy.byteimg.com/aweme/100x100/26dbb00048be1c44f5b89.jpeg"
+          ]
+        },
+        "avatar_medium": {
+          "uri": "26dbb00048be1c44f5b89",
+          "url_list": [
+            "https://p3-dy-ipv6.byteimg.com/aweme/720x720/26dbb00048be1c44f5b89.jpeg",
+            "https://p29-dy.byteimg.com/aweme/720x720/26dbb00048be1c44f5b89.jpeg",
+            "https://p9-dy.byteimg.com/aweme/720x720/26dbb00048be1c44f5b89.jpeg"
+          ]
+        },
+        "platform_sync_info": null,
+        "geofencing": null,
+        "uid": "2238223396386808",
+        "unique_id": "",
+        "followers_detail": null,
+        "policy_version": null,
+        "avatar_larger": {
+          "uri": "26dbb00048be1c44f5b89",
+          "url_list": [
+            "https://p3-dy-ipv6.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg",
+            "https://p29-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg",
+            "https://p9-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg"
+          ]
+        }
+      },
+      "duration": 40573,
+      "uniqid_position": null,
+      "video_text": null,
+      "long_video": null,
+      "group_id": 6755287973832543000,
+      "music": {
+        "cover_thumb": {
+          "uri": "26dbb00048be1c44f5b89",
+          "url_list": [
+            "https://p9-dy.byteimg.com/aweme/100x100/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p29-dy.byteimg.com/aweme/100x100/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p3-dy.byteimg.com/aweme/100x100/26dbb00048be1c44f5b89.jpeg?from=4010531038"
+          ]
+        },
+        "duration": 40,
+        "title": "@苓妹妹吖创作的原声",
+        "author": "苓妹妹吖",
+        "cover_hd": {
+          "uri": "26dbb00048be1c44f5b89",
+          "url_list": [
+            "https://p3-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p9-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p29-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg?from=4010531038"
+          ]
+        },
+        "cover_large": {
+          "uri": "26dbb00048be1c44f5b89",
+          "url_list": [
+            "https://p3-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p9-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p29-dy.byteimg.com/aweme/1080x1080/26dbb00048be1c44f5b89.jpeg?from=4010531038"
+          ]
+        },
+        "position": null,
+        "status": 1,
+        "id": 6755256016180399000,
+        "mid": "6755256016180398861",
+        "cover_medium": {
+          "uri": "26dbb00048be1c44f5b89",
+          "url_list": [
+            "https://p9-dy.byteimg.com/aweme/720x720/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p29-dy.byteimg.com/aweme/720x720/26dbb00048be1c44f5b89.jpeg?from=4010531038",
+            "https://p3-dy.byteimg.com/aweme/720x720/26dbb00048be1c44f5b89.jpeg?from=4010531038"
+          ]
+        },
+        "play_url": {
+          "uri": "http://p9-dy.byteimg.com/obj/ies-music/1649237154670653.mp3",
+          "url_list": [
+            "http://p9-dy.byteimg.com/obj/ies-music/1649237154670653.mp3",
+            "http://p3-dy.byteimg.com/obj/ies-music/1649237154670653.mp3"
+          ]
+        }
+      },
+      "share_url": "https://www.iesdouyin.com/share/video/6755287973832543492/?region=&mid=6755256016180398861&u_code=48&titleType=title",
+      "position": null
+    }
+  ],
+  "extra": {
+    "now": 1590976860000,
+    "logid": "202006011001000100140400362D17F451"
+  }
+}
