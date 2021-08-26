@@ -37,7 +37,7 @@ function get_CCTV($video_url)
 
     $guid = $matches[1];
 
-    $video_url_parse = "https://dh5.cntv.myalicdn.com/asp/h5e/hls/main/0303000a/3/default/" . $guid . "/main.m3u8?maxbr=2048";
+    $video_url_parse = "https://dh5.cntv.myalicdn.com/asp/h5e/hls/main/0303000a/3/default/" . $guid . "/main.m3u8";
 
     header("Location: $video_url_parse");
 }
@@ -46,7 +46,7 @@ $video_url = $_GET['url'];
 // $video_url = "https://tv.cctv.com/2017/03/04/VIDEhOELsnCYlUtKhOmfO4Qu170304.shtml";
 
 get_CCTV($video_url);
-// https://dh5.cntv.myalicdn.com/asp/h5e/hls/main/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/main.m3u8?maxbr=2048
+// https://dh5.cntv.myalicdn.com/asp/h5e/hls/main/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/main.m3u8
 
 exit;
 ?>
