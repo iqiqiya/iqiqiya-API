@@ -75,9 +75,9 @@ API接口不断增加中...
 
 ## 在线预览
 
-[iqiqiya-API](https://api.77sec.cn/)
+[iqiqiya-API](https://iqiqiya.com/)
 
-[iAkie在线工具箱](https://tools.iakie.com/)
+[iAkie在线工具箱](https://iqiqiya.com/)
 
 ## 项目说明
 
